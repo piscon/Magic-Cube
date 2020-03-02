@@ -12,7 +12,7 @@
 
 ### 效果图
 
-![](http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/ebf0dfb4-df28-4bb1-9499-d9504f117652.gif)
+![image](http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/ebf0dfb4-df28-4bb1-9499-d9504f117652.gif)
 
 ### 验收标准
 
