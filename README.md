@@ -1,6 +1,6 @@
 # Magic-Cube
 
-###通过这个任务能学到
+### 通过这个任务能学到
 
 1.网页是由什么组成的
 2.如何生成一个网页
@@ -12,7 +12,7 @@
 
 ### 效果图
 
-![image](http://jns.img.bucket.ks3-cn-beijing.ksyun.com/skill/1/ebf0dfb4-df28-4bb1-9499-d9504f117652.gif)
+![image](https://github.com/piscon/Magic-Cube/blob/master/img/magic_cube.gif)
 
 ### 验收标准
 
